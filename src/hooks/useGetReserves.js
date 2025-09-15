@@ -17,6 +17,7 @@ function useGetReserves(path, swapMode, router) {
     const fetch = async () => {
       try {
         let result = [0n, 0n];
+        console.log('fetch reserves', {swapMode, router, path})
         if (swapMode === SWAP_MODES.V2) {
           result = await readContract(client, {
             abi: LongSwapAbi,

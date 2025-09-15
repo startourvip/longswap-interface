@@ -14,7 +14,7 @@ export const WS_URL = 'wss://longswap.app/ws'
  * Main Route
  * @type {string}
  */
-export const SWAP_ROUTER = '0x7A8B32f4B513996f45503dF1138C64D11F91b42D'
+export const SWAP_ROUTER = '0x4Ee3f918Ddf28e2E296cf191BfA6451420C866Aa'
 
 /**
  * x314
