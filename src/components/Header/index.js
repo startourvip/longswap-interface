@@ -54,7 +54,7 @@ function Header() {
           <NavbarBrand>
             <Logo/>
             <Link className="font-bold text-inherit dark:text-white text-lg pl-1" href={'/'}>
-              LongSwap
+              OKX LongSwap
             </Link>
           </NavbarBrand>
         </NavbarItem>

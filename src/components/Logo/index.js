@@ -1,4 +1,4 @@
-import logo from '../../assets/images/logo.webp'
+import logo from '../../assets/images/logo.png'
 
 const Logo = () => (
   <img className={'w-8 h-8 max-w-none'} alt={''} src={logo}/>
