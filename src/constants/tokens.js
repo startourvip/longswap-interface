@@ -20,6 +20,7 @@ export const TOKEN_LIST = {
   ],
   196: [
     new Token(196, '0x8B9c5C3eA7d1b6E8F2b3F4dBf4F1c3A9e5E5b5b5', 18, 'WOKB', 'Wrapped OKB'),
+    new Token(196, '0xce9ffb6e865641ebaf4fea671f99fa8303ddf647', 18, 'OKI', 'OKI'),
   ]
 }
 
@@ -36,5 +37,6 @@ export const SUGGESTED_BASES = {
   ],
   196: [
     new Token(196, '0x8B9c5C3eA7d1b6E8F2b3F4dBf4F1c3A9e5E5b5b5', 18, 'WOKB', 'Wrapped OKB'),
+    new Token(196, '0xce9ffb6e865641ebaf4fea671f99fa8303ddf647', 18, 'OKI', 'OKI'),
   ]
 }
