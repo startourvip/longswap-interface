@@ -43,12 +43,12 @@ function Footer() {
         <div className="md:text-end space-x-2">
           <a
             className="size-8 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-full border border-transparent text-gray-500 hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-            href="https://t.me/x_bsc314">
+            href="https://t.me/OKX314Swap">
             <FaTelegramPlane className={'flex-shrink-0 size-3.5'}/>
           </a>
           <a
             className="size-8 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-full border border-transparent text-gray-500 hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-            href="https://twitter.com/Des_visen">
+            href="https://x.com/OKXLongSwap314?s=09">
             <FaTwitter className={'flex-shrink-0 size-3.5'}/>
           </a>
           <a

@@ -17,9 +17,7 @@ export const TOKEN_LIST = {
     new Token(56, '0x003144B41d9743D402c5bdF3f72Ca0f327aA0Bca', 18, 'X314', 'X-314'),
   ],
   196: [
-    
-    new Token(196, '0xe538905cf8410324e03A5A23C1c177a474D59b2b', 18, 'WOKB', 'Wrapped OKB'),
-    
+    WETH[196],    
     new Token(196, '0xce9ffb6e865641ebaf4fea671f99fa8303ddf647', 18, 'OKI', 'OKI'),
   ]
 }
@@ -36,8 +34,8 @@ export const SUGGESTED_BASES = {
     new Token(56, '0x2170Ed0880ac9A755fd29B2688956BD959F933F8', 18, 'ETH', 'Ethereum Token'),
   ],
   196: [
-    new Token(196, '0x1e4a5963abfd975d8c9021ce480b42188849d41d', 18, 'USDT', 'USDTether USDT'),
-    new Token(196, '0xe538905cf8410324e03A5A23C1c177a474D59b2b', 18, 'WOKB', 'Wrapped OKB'),
+    WETH[196],
+    new Token(196, '0x1e4a5963abfd975d8c9021ce480b42188849d41d', 6, 'USDT', 'USDTether USDT'),
     new Token(196, '0xce9ffb6e865641ebaf4fea671f99fa8303ddf647', 18, 'OKI', 'OKI'),
   ]
 }
