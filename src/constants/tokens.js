@@ -36,6 +36,6 @@ export const SUGGESTED_BASES = {
   196: [
     WETH[196],
     new Token(196, '0x1e4a5963abfd975d8c9021ce480b42188849d41d', 6, 'USDT', 'USDTether USDT'),
-    new Token(196, '0xce9ffb6e865641ebaf4fea671f99fa8303ddf647', 18, 'OKI', 'OKI'),
+    new Token(196, '0x39986754C8538FEe12e8169D7C165d721FB0B988', 18, 'X314', 'X314'),
   ]
 }

@@ -18,7 +18,7 @@ import { Share } from "./components/Share";
 
 function Staking() {
   const {t} = useTranslation()
-  const x314 = new Token(56, X314, 18, 'X314', 'X-314')
+  const x314 = new Token(196, X314, 18, 'X314', 'X-314')
   const [amount, setAmount] = useState('')
   const account = useStakingAccount()
 
