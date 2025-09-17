@@ -13,8 +13,6 @@ export const TOKEN_LIST = {
   56: [
     WETH[56],
     new Token(56, '0x55d398326f99059fF775485246999027B3197955', 18, 'USDT', 'Tether USD'),
-    new Token(56, '0x3B4E1f58cd3A434E348bF335C6ae0C993d3789cB', 18, 'LONG-314', 'Long 314'),
-    new Token(56, '0x003144B41d9743D402c5bdF3f72Ca0f327aA0Bca', 18, 'X314', 'X-314'),
   ],
   196: [
     WETH[196],    
