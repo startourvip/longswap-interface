@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@fontsource/roboto": "^5.0.8",
+    "@nextui-org/framer-transitions": "^2.0.15",
     "@nextui-org/react": "^2.2.10",
     "@reduxjs/toolkit": "^2.2.2",
     "@tanstack/react-query": "^5.22.2",
